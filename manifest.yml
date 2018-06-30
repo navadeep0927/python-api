@@ -1,8 +1,8 @@
 ---
 applications:
-- name: get-py
-  memory: 512MB
-  disk_quota: 512MB
+- name: jenkins-cf-navadeep
+  memory: 256MB
+  disk_quota: 256MB
   random-route: true
   buildpack: python_buildpack
   command: python get-py.py
