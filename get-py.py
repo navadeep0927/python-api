@@ -19,6 +19,13 @@ tasks = [
         'description': u'Need to find a good Python tutorial on the web',
         'done': False
     }
+    {
+        
+        'id': 3,
+        'title': u'Learn Cloud Foundry',
+        'description': u'Need to find a good Cloudfoundry tutorial on the web',
+        'done': False
+    }
 ]
 
 cloudFormation = [{
